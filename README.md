@@ -4,8 +4,8 @@ A very basic x86 OS. It includes some images, and a terminal, where the users ca
 
 
 ## Screenshots
-<img src="img/peterzsigmondOS-1.png" alt="peterzsigmondOS" height="375" />
-<img src="img/peterzsigmondOS-2.png" alt="peterzsigmondOS" height="375" />
+<img src="img/peterzsigmondOS-1.png" alt="peterzsigmondOS" width="600" />
+<img src="img/peterzsigmondOS-2.png" alt="peterzsigmondOS" width="600" />
 
 
 ## Build
